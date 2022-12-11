@@ -13,7 +13,7 @@ export class App extends Component {
 render() {
   
     return (
-      <div>
+      <div style={{backgroundColor:"#305d72"}}>
         <Router>
         <Navbar/>
         <Routes>
